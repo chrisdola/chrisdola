@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**chrisdola/chrisdola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+C:\Users\chris\OneDrive\Documents\GitHub\chrisdola\.github\images\terminal_home_page.mp4
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
