@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-C:\Users\chris\OneDrive\Documents\GitHub\chrisdola\.github\images\terminal_home_page.mp4
 
 
 
