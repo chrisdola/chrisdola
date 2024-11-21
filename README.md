@@ -47,3 +47,6 @@ I ocassionally post tutorials or topics I find interesting over on my [blog](htt
   <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" width="110" height="30"/>
   <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" width="110" height="30"/>
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdola&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
